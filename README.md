@@ -1,10 +1,10 @@
 # Hi, I'm Tom 👋
 
+Currently researching **gradient routing**.
+
 Previously, I studied Mathematics and Statistics at the University of Oxford.
 
 I'm interested in **🧠 AI alignment research, 🤖 robotics, and 📈 trading**.
-
-Currently researching **gradient routing**.
 
 ## 🏆 Hackathons
 
