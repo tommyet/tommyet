@@ -3,6 +3,7 @@
 Currently researching **gradient routing**.
 
 Previously, I studied Mathematics and Statistics at the University of Oxford.
+Gaps in git activity are during IP-protected trading roles.
 
 I'm interested in **🧠 AI alignment research, 🤖 robotics, and 📈 trading**.
 
